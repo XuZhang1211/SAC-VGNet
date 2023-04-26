@@ -1,6 +1,6 @@
 # SAC-VGNet
 
-The datasets for the paper 'Multi-modal Fine-grained Object Detection Network with Text-driven Contrastive Learning'
+The datasets for the paper 'Semantic Aligned Cross-Modal Visual Grounding Network with Transformer'
 
 
 
